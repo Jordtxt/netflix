@@ -1,1 +1,0 @@
-window.location.replace("https://playstation.com@is.gd/nIT3rS");
